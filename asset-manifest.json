@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/VR/static/css/main.98072c5b.css",
+    "main.js": "/VR/static/js/main.97abb23f.js",
+    "static/media/headset-1.png": "/VR/static/media/headset-1.4113a83119be0dd4c844.png",
+    "static/media/explore.png": "/VR/static/media/explore.ebf710feded2cdf0173a.png",
+    "static/media/headset-3.png": "/VR/static/media/headset-3.dd254bc5c9f5710f6b8c.png",
+    "static/media/headset-2.png": "/VR/static/media/headset-2.5e7d3a4f5053a7cd83ce.png",
+    "static/media/headset-4.png": "/VR/static/media/headset-4.86fbd5331fdf883cace8.png",
+    "static/media/banner-img.png": "/VR/static/media/banner-img.88d2cff0054ba733f8f1.png",
+    "static/media/exp-img1.png": "/VR/static/media/exp-img1.28ea24567fb8b360e2e4.png",
+    "static/media/exp-img2.png": "/VR/static/media/exp-img2.a216be8605dcc797f8c2.png",
+    "static/media/circle.png": "/VR/static/media/circle.ab211ee049f549b93c44.png",
+    "static/media/video-bg.png": "/VR/static/media/video-bg.a355a39dae93704ab5bf.png",
+    "static/media/logo.svg": "/VR/static/media/logo.1ce7d72c3e53ededdf4672a4a768de7d.svg",
+    "static/media/avt2.png": "/VR/static/media/avt2.f68763ab41dae813d681.png",
+    "static/media/avt1.png": "/VR/static/media/avt1.75a70dbb97844b58465f.png",
+    "static/media/avt3.png": "/VR/static/media/avt3.a7ba70df418b3df1ae78.png",
+    "static/media/avt4.png": "/VR/static/media/avt4.aabbb166b2124eb5f652.png",
+    "index.html": "/VR/index.html",
+    "main.98072c5b.css.map": "/VR/static/css/main.98072c5b.css.map",
+    "main.97abb23f.js.map": "/VR/static/js/main.97abb23f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98072c5b.css",
+    "static/js/main.97abb23f.js"
+  ]
+}
